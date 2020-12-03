@@ -1,9 +1,11 @@
 # The Game
 
-- C++ console window game which I created around 2016 while learning basics of C++. The main idea of "The Game" is not unique, but it what was a fun little project to work with, while diving into basics of programming.
-- Keep in mind that the code was written in the early stages of my programming life, meaning that this code is awful from a perspective of experienced and efficient developer. So I would suggest focusing on the idea itself and enjoy those 5 minutes of wandering around it.
-- Idea of "The Game": player must walk through labyrinth, filling out every empty tile, end up on specified tile.
-- I wrote this code on Windows and I used `conio.h` header file, which is used mostly by MS-DOS compilers to provide console input/output and is not included in a C standard library. This means, that this program will probably compile only on Windows.
+- A C++ Windows console game I created around 2016 while learning the basics of C++. 
+- The main idea of "The Game" is not unique, but it was a fun little project to work with.
+
+## Idea of "The Game"
+
+The player must navigate through a labyrinth, filling out every empty tile (player can step on a single tile once), and end up on the specified tile.
 
 ![](https://github.com/d1j/TheGame/blob/master/screenshots/1.png?raw=true) ![](https://github.com/d1j/TheGame/blob/master/screenshots/2.png?raw=true) ![](https://github.com/d1j/TheGame/blob/master/screenshots/3.png?raw=true) ![](https://github.com/d1j/TheGame/blob/master/screenshots/4.png?raw=true)
 ![](https://github.com/d1j/TheGame/blob/master/screenshots/5.png?raw=true) ![](https://github.com/d1j/TheGame/blob/master/screenshots/6.png?raw=true) ![](https://github.com/d1j/TheGame/blob/master/screenshots/7.png?raw=true)
